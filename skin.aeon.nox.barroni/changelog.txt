@@ -1,0 +1,27 @@
+﻿﻿﻿﻿﻿﻿﻿﻿﻿[B]1.0.5[/B]
+• Added vertical sub menu back colour select.  
+• Added new icon back panel image.
+• Changed default icon back panel colour overlay to none.
+• Minor bug fixes.
+
+[B]1.0.4[/B]
+• Added new images to vertical menu panels. TK. 
+• Added new images to menu panels. TK. 
+• Added new icon back panel image.
+• Set icon frame to transparent as default (this can be changed in the skin settings).
+• Minor bug fixes.
+
+[B]1.0.3[/B]
+• Enabled icons as default view in main menu. TK. 
+• Disabled floor panel as default in skin settings. 
+• Changed icon layout in settings when floor panel is enabled. (fixes touchscreen issues when navigating the menu).
+
+﻿﻿[B]1.0.2[/B]
+• Fixed icon aspect ratio issue.
+
+[B]1.0.1[/B]
+• Fixed file manager not opening.
+• Fixed file manager animation.
+
+﻿[B]1.0.0[/B]
+• Initial commit.
